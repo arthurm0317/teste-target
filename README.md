@@ -1,2 +1,3 @@
 # teste-target
-Repositorio dos programas feitos para o teste 
+Os programas se encontram na pasta src/applications e algumas classes usadas para a execução de maneira "clean" estão na pasta src/entities.
+
